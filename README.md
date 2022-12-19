@@ -3,7 +3,7 @@ Welcome to my very first HTML website and project. My motivation behind starting
 
 In this project I created a website that contains recipes. At the moment, I only have 3 recipes, but that may be subject to change. Additionally, the original link to each recipe is at the bottom of each recipe page. What I wanted to do in this website was implement everything that I've learned about HTML through the various TOP lessons. Since I haven't gotten to the CSS and javascript lessons, I tried my best to remember everything from bold tags to line breaks to images.
 
-Like any HTML project, if you wan't to open it up you can double click on the index.html file to get to the homepage. Additionally, you can see the preview by going on rektophobia.github.io/odin-recipes.
+Like any HTML project, if you wan't to open it up you can double click on the index.html file to get to the homepage. Additionally, you can see the preview by going on sanimsahmed.github.io/odin-recipes.
 
 Project directions given by the Odin Project
 Recipes given by https://www.allrecipes.com/
